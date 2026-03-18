@@ -1,3 +1,5 @@
 {
+  // fill these out accordingly then save the file as config.json do NOT fork this and accidentally include your key or potentially private URL
   "api_key": "sdlfkjsdfkjsdljdskjdsflj"
+  "endpoint": "https://sdflkjsdflkjsdflkjdsflkjfdes"
 }
